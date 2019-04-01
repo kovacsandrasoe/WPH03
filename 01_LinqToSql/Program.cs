@@ -84,7 +84,7 @@ namespace _01_LinqToSql
 
             foreach (var item in q4)
             {
-                Console.Write();
+                
                 Console.WriteLine(item);
             }
                      
