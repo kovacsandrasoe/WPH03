@@ -87,6 +87,8 @@ namespace _01_LinqToSql
                 Console.WriteLine("alma");
                 Console.WriteLine(item);
                 Console.WriteLine("körte");
+                Console.WriteLine("banán");
+                
             }
                      
         }
